@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Code Step By Step Points of video\r Script with Command Line\r Make Folder and file\r Write First Code and Run\r Interview Question",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20",
+    "simple-node-logger": "^21.8.12"
+  }
+}
